@@ -1,1 +1,1 @@
-print("my string")
+print("test message")
